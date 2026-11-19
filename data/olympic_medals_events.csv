@@ -1,0 +1,42 @@
+year,host_city,sport,event,medal,athlete_or_team,type,source,sport_std,is_disputed
+1900,Paris,Athletics,"200 metres Hurdles, Men",Silver,Norman Pritchard,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub) | Note: Norman Pritchard 1900 medals credited to India by IOC; nationality disputed",Athletics,True
+1900,Paris,Athletics,"200 metres, Men",Silver,Norman Pritchard,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub) | Note: Norman Pritchard 1900 medals credited to India by IOC; nationality disputed",Athletics,True
+1928,Amsterdam,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1932,Los Angeles,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1936,Berlin,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1948,London,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1952,Helsinki,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1952,Helsinki,Wrestling,"Bantamweight, Freestyle, Men",Bronze,Khashaba Jadhav,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+1956,Melbourne,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1960,Rome,Hockey,"Hockey, Men",Silver,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1964,Tokyo,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1968,Mexico City,Hockey,"Hockey, Men",Bronze,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1972,Munich,Hockey,"Hockey, Men",Bronze,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1980,Moscow,Hockey,"Hockey, Men",Gold,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+1996,Atlanta,Tennis,"Singles, Men",Bronze,Leander Paes,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Tennis,False
+2000,Sydney,Weightlifting,"Light-Heavyweight, Women",Bronze,Karnam Malleswari,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Weightlifting,False
+2004,Athens,Shooting,"Double Trap, Men",Silver,Rajyavardhan Rathore,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Shooting,False
+2008,Beijing,Boxing,"Middleweight, Men",Bronze,Vijender Singh,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Boxing,False
+2008,Beijing,Shooting,"Air Rifle, 10 metres, Men",Gold,Abhinav Bindra,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Shooting,False
+2008,Beijing,Wrestling,"Welterweight, Freestyle, Men",Bronze,Sushil Kumar,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2012,London,Badminton,"Singles, Women",Bronze,Saina Nehwal,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Badminton,False
+2012,London,Boxing,"Flyweight, Women",Bronze,Mary Kom,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Boxing,False
+2012,London,Shooting,"Air Rifle, 10 metres, Men",Bronze,Gagan Narang,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Shooting,False
+2012,London,Shooting,"Rapid-Fire Pistol, 25 metres, Men",Silver,Vijay Kumar,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Shooting,False
+2012,London,Wrestling,"Lightweight, Freestyle, Men",Bronze,Yogeshwar Dutt,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2012,London,Wrestling,"Welterweight, Freestyle, Men",Silver,Sushil Kumar,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2016,Rio de Janeiro,Badminton,"Singles, Women",Silver,P. V. Sindhu,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Badminton,False
+2016,Rio de Janeiro,Wrestling,"Lightweight, Freestyle, Women",Bronze,Sakshi Malik,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2020,Tokyo,Athletics,"Javelin Throw, Men",Gold,Neeraj Chopra,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Athletics,False
+2020,Tokyo,Badminton,"Singles, Women",Bronze,P. V. Sindhu,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Badminton,False
+2020,Tokyo,Boxing,"Welterweight, Women",Bronze,Lovlina Borgohain,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Boxing,False
+2020,Tokyo,Hockey,"Hockey, Men",Bronze,India men's hockey team,Team,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Field hockey,False
+2020,Tokyo,Weightlifting,"Flyweight, Women",Silver,Mirabai Chanu,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Weightlifting,False
+2020,Tokyo,Wrestling,"Featherweight, Freestyle, Men",Silver,Ravi Kumar,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2020,Tokyo,Wrestling,"Welterweight, Freestyle, Men",Bronze,Bajrang Punia,Individual,"Olympedia-derived dataset (KeithGalli/Olympics-Dataset, GitHub)",Wrestling,False
+2024,Paris,Athletics,"Javelin Throw, Men",Silver,Neeraj Chopra,Individual,Added manually from official Paris 2024 results (olympics.com),Athletics,False
+2024,Paris,Hockey,"Hockey, Men",Bronze,India men's hockey team,Team,Added manually from official Paris 2024 results (olympics.com),Field hockey,False
+2024,Paris,Shooting,"Air Pistol, 10 metres, Women",Bronze,Manu Bhaker,Individual,Added manually from official Paris 2024 results (olympics.com),Shooting,False
+2024,Paris,Shooting,"Air Pistol, 10 metres, Mixed Team",Bronze,"Manu Bhaker, Sarabjot Singh",Team,Added manually from official Paris 2024 results (olympics.com),Shooting,False
+2024,Paris,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men",Bronze,Swapnil Kusale,Individual,Added manually from official Paris 2024 results (olympics.com),Shooting,False
+2024,Paris,Wrestling,"Freestyle 57 kg, Men",Bronze,Aman Sehrawat,Individual,Added manually from official Paris 2024 results (olympics.com),Wrestling,False

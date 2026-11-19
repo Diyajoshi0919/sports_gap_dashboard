@@ -1,0 +1,204 @@
+year,sport,gold,silver,bronze,total,sport_std
+1951,Athletics,10.0,12.0,12.0,34.0,Athletics
+1951,Cycling,0.0,1.0,2.0,3.0,Cycling
+1951,Diving,2.0,1.0,1.0,4.0,Diving
+1951,Football,1.0,0.0,0.0,1.0,Football
+1951,Swimming,1.0,1.0,4.0,6.0,Swimming
+1951,Water polo,1.0,0.0,0.0,1.0,Water polo
+1951,Weightlifting,0.0,1.0,1.0,2.0,Weightlifting
+1954,Athletics,5.0,3.0,6.0,14.0,Athletics
+1954,Diving,0.0,0.0,1.0,1.0,Diving
+1954,Wrestling,0.0,1.0,1.0,2.0,Wrestling
+1958,Athletics,5.0,2.0,2.0,9.0,Athletics
+1958,Boxing,0.0,1.0,1.0,2.0,Boxing
+1958,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1958,Volleyball,0.0,0.0,1.0,1.0,Volleyball
+1962,Athletics,5.0,5.0,4.0,14.0,Athletics
+1962,Boxing,1.0,0.0,2.0,3.0,Boxing
+1962,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1962,Football,1.0,0.0,0.0,1.0,Football
+1962,Shooting,0.0,0.0,1.0,1.0,Shooting
+1962,Volleyball,0.0,1.0,0.0,1.0,Volleyball
+1962,Wrestling,3.0,6.0,3.0,12.0,Wrestling
+1966,Athletics,5.0,1.0,5.0,11.0,Athletics
+1966,Boxing,1.0,1.0,0.0,2.0,Boxing
+1966,Field hockey,1.0,0.0,0.0,1.0,Field hockey
+1966,Lawn tennis,0.0,0.0,1.0,1.0,Tennis
+1966,Wrestling,0.0,1.0,5.0,6.0,Wrestling
+1970,Athletics,4.0,5.0,5.0,14.0,Athletics
+1970,Boxing,1.0,1.0,0.0,2.0,Boxing
+1970,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1970,Football,0.0,0.0,1.0,1.0,Football
+1970,Sailing,0.0,0.0,1.0,1.0,Sailing
+1970,Water polo,0.0,1.0,0.0,1.0,Water polo
+1970,Wrestling,1.0,1.0,3.0,5.0,Wrestling
+1974,Athletics,4.0,7.0,4.0,15.0,Athletics
+1974,Badminton,0.0,0.0,1.0,1.0,Badminton
+1974,Boxing,0.0,3.0,2.0,5.0,Boxing
+1974,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1974,Shooting,0.0,1.0,1.0,2.0,Shooting
+1974,Wrestling,0.0,0.0,4.0,4.0,Wrestling
+1978,Athletics,8.0,7.0,3.0,18.0,Athletics
+1978,Boxing,0.0,1.0,2.0,3.0,Boxing
+1978,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1978,Lawn tennis,0.0,0.0,1.0,1.0,Tennis
+1978,Sailing,0.0,1.0,0.0,1.0,Sailing
+1978,Shooting,1.0,0.0,0.0,1.0,Shooting
+1978,Wrestling,2.0,1.0,0.0,3.0,Wrestling
+1982,Athletics,4.0,9.0,8.0,21.0,Athletics
+1982,Badminton,0.0,0.0,5.0,5.0,Badminton
+1982,Boxing,1.0,2.0,3.0,6.0,Boxing
+1982,Equestrian,3.0,1.0,1.0,5.0,Equestrian
+1982,Field hockey,1.0,1.0,0.0,2.0,Field hockey
+1982,Golf,2.0,1.0,0.0,3.0,Golf
+1982,Lawn tennis,0.0,1.0,0.0,1.0,Tennis
+1982,Rowing,0.0,0.0,1.0,1.0,Rowing
+1982,Sailing,1.0,1.0,1.0,3.0,Sailing
+1982,Shooting,0.0,2.0,1.0,3.0,Shooting
+1982,Water polo,0.0,0.0,1.0,1.0,Water polo
+1982,Weightlifting,0.0,0.0,2.0,2.0,Weightlifting
+1982,Wrestling,1.0,1.0,2.0,4.0,Wrestling
+1986,Athletics,4.0,2.0,3.0,9.0,Athletics
+1986,Badminton,0.0,0.0,1.0,1.0,Badminton
+1986,Boxing,0.0,4.0,5.0,9.0,Boxing
+1986,Equestrian,0.0,0.0,2.0,2.0,Equestrian
+1986,Field hockey,0.0,0.0,2.0,2.0,Field hockey
+1986,Judo,0.0,0.0,4.0,4.0,Judo
+1986,Sailing,0.0,1.0,0.0,1.0,Sailing
+1986,Shooting,0.0,1.0,2.0,3.0,Shooting
+1986,Swimming,0.0,1.0,0.0,1.0,Swimming
+1986,Volleyball,0.0,0.0,1.0,1.0,Volleyball
+1986,Weightlifting,0.0,0.0,1.0,1.0,Weightlifting
+1986,Wrestling,1.0,0.0,2.0,3.0,Wrestling
+1990,Athletics,0.0,4.0,2.0,6.0,Athletics
+1990,Boxing,0.0,0.0,1.0,1.0,Boxing
+1990,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1990,Kabaddi,1.0,0.0,0.0,1.0,Kabaddi
+1990,Lawn tennis,0.0,0.0,1.0,1.0,Tennis
+1990,Rowing,0.0,0.0,4.0,4.0,Rowing
+1990,Sailing,0.0,0.0,2.0,2.0,Sailing
+1990,Shooting,0.0,0.0,1.0,1.0,Shooting
+1990,Weightlifting,0.0,2.0,2.0,4.0,Weightlifting
+1990,Wrestling,0.0,1.0,1.0,2.0,Wrestling
+1994,Athletics,0.0,1.0,2.0,3.0,Athletics
+1994,Boxing,0.0,0.0,4.0,4.0,Boxing
+1994,Canoeing,0.0,0.0,1.0,1.0,Canoeing
+1994,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+1994,Judo,0.0,0.0,1.0,1.0,Judo
+1994,Kabaddi,1.0,0.0,0.0,1.0,Kabaddi
+1994,Lawn tennis,2.0,0.0,1.0,3.0,Tennis
+1994,Rowing,0.0,0.0,1.0,1.0,Rowing
+1994,Sailing,0.0,0.0,2.0,2.0,Sailing
+1994,Shooting,1.0,0.0,1.0,2.0,Shooting
+1994,Weightlifting,0.0,1.0,3.0,4.0,Weightlifting
+1998,Athletics,2.0,6.0,7.0,15.0,Athletics
+1998,Boxing,1.0,0.0,1.0,2.0,Boxing
+1998,Cue sports,2.0,1.0,1.0,4.0,Cue sports
+1998,Equestrian,0.0,0.0,1.0,1.0,Equestrian
+1998,Field hockey,1.0,1.0,0.0,2.0,Field hockey
+1998,Kabaddi,1.0,0.0,0.0,1.0,Kabaddi
+1998,Lawn tennis,0.0,0.0,4.0,4.0,Tennis
+1998,Rowing,0.0,0.0,2.0,2.0,Rowing
+1998,Shooting,0.0,2.0,1.0,3.0,Shooting
+1998,Weightlifting,0.0,1.0,0.0,1.0,Weightlifting
+2002,Athletics,7.0,6.0,4.0,17.0,Athletics
+2002,Cue sports,1.0,1.0,1.0,3.0,Cue sports
+2002,Equestrian,0.0,0.0,1.0,1.0,Equestrian
+2002,Field hockey,0.0,1.0,0.0,1.0,Field hockey
+2002,Golf,1.0,0.0,0.0,1.0,Golf
+2002,Kabaddi,1.0,0.0,0.0,1.0,Kabaddi
+2002,Lawn tennis,1.0,1.0,2.0,4.0,Tennis
+2002,Rowing,0.0,0.0,1.0,1.0,Rowing
+2002,Sailing,0.0,1.0,2.0,3.0,Sailing
+2002,Shooting,0.0,2.0,0.0,2.0,Shooting
+2002,Taekwondo,0.0,0.0,1.0,1.0,Taekwondo
+2002,Wrestling,0.0,0.0,1.0,1.0,Wrestling
+2006,Archery,0.0,0.0,1.0,1.0,Archery
+2006,Athletics,1.0,4.0,4.0,9.0,Athletics
+2006,Boxing,0.0,0.0,2.0,2.0,Boxing
+2006,Chess,2.0,0.0,0.0,2.0,Chess
+2006,Cue sports,1.0,1.0,2.0,4.0,Cue sports
+2006,Equestrian,0.0,0.0,1.0,1.0,Equestrian
+2006,Field hockey,0.0,0.0,1.0,1.0,Field hockey
+2006,Golf,0.0,1.0,0.0,1.0,Golf
+2006,Kabaddi,1.0,0.0,0.0,1.0,Kabaddi
+2006,Lawn tennis,2.0,2.0,0.0,4.0,Tennis
+2006,Rowing,0.0,2.0,1.0,3.0,Rowing
+2006,Sailing,0.0,1.0,1.0,2.0,Sailing
+2006,Shooting,3.0,5.0,6.0,14.0,Shooting
+2006,Squash,0.0,0.0,1.0,1.0,Squash
+2006,Wrestling,0.0,1.0,5.0,6.0,Wrestling
+2006,Wushu,0.0,0.0,1.0,1.0,Wushu
+2010,Archery,0.0,1.0,2.0,3.0,Archery
+2010,Athletics,5.0,2.0,5.0,12.0,Athletics
+2010,Boxing,2.0,3.0,4.0,9.0,Boxing
+2010,Chess,0.0,0.0,2.0,2.0,Chess
+2010,Cue sports,1.0,1.0,2.0,4.0,Cue sports
+2010,Field hockey,0.0,0.0,1.0,1.0,Field hockey
+2010,Golf,0.0,1.0,0.0,1.0,Golf
+2010,Gymnastics,0.0,0.0,1.0,1.0,Gymnastics
+2010,Kabaddi,2.0,0.0,0.0,2.0,Kabaddi
+2010,Lawn tennis,2.0,1.0,2.0,5.0,Tennis
+2010,Roller sports,0.0,0.0,2.0,2.0,Roller sports
+2010,Rowing,1.0,3.0,1.0,5.0,Rowing
+2010,Sailing,0.0,1.0,0.0,1.0,Sailing
+2010,Shooting,1.0,3.0,4.0,8.0,Shooting
+2010,Squash,0.0,0.0,3.0,3.0,Squash
+2010,Swimming,0.0,0.0,1.0,1.0,Swimming
+2010,Wrestling,0.0,0.0,3.0,3.0,Wrestling
+2010,Wushu,0.0,1.0,1.0,2.0,Wushu
+2014,Archery,1.0,1.0,2.0,4.0,Archery
+2014,Athletics,2.0,3.0,8.0,13.0,Athletics
+2014,Badminton,0.0,0.0,1.0,1.0,Badminton
+2014,Boxing,0.0,4.0,5.0,9.0,Boxing
+2014,Field hockey,1.0,0.0,1.0,2.0,Field hockey
+2014,Kabaddi,2.0,0.0,0.0,2.0,Kabaddi
+2014,Lawn tennis,1.0,1.0,3.0,5.0,Tennis
+2014,Rowing,0.0,0.0,3.0,3.0,Rowing
+2014,Sailing,0.0,0.0,1.0,1.0,Sailing
+2014,Shooting,1.0,1.0,7.0,9.0,Shooting
+2014,Squash,1.0,2.0,1.0,4.0,Squash
+2014,Swimming,0.0,0.0,1.0,1.0,Swimming
+2014,Wrestling,1.0,1.0,3.0,5.0,Wrestling
+2014,Wushu,0.0,0.0,2.0,2.0,Wushu
+2018,Archery,0.0,2.0,0.0,2.0,Archery
+2018,Athletics,8.0,9.0,3.0,20.0,Athletics
+2018,Badminton,0.0,1.0,1.0,2.0,Badminton
+2018,Boxing,1.0,0.0,1.0,2.0,Boxing
+2018,Bridge,1.0,0.0,2.0,3.0,Bridge
+2018,Equestrian,0.0,2.0,0.0,2.0,Equestrian
+2018,Field hockey,0.0,1.0,1.0,2.0,Field hockey
+2018,Kabaddi,0.0,1.0,1.0,2.0,Kabaddi
+2018,Kurash,0.0,1.0,1.0,2.0,Kurash
+2018,Lawn tennis,1.0,0.0,2.0,3.0,Tennis
+2018,Rowing,1.0,0.0,2.0,3.0,Rowing
+2018,Sailing,0.0,1.0,2.0,3.0,Sailing
+2018,Sepaktakraw,0.0,0.0,1.0,1.0,Sepaktakraw
+2018,Shooting,2.0,4.0,3.0,9.0,Shooting
+2018,Squash,0.0,1.0,4.0,5.0,Squash
+2018,Table tennis,0.0,0.0,2.0,2.0,Table tennis
+2018,Wrestling,2.0,0.0,1.0,3.0,Wrestling
+2018,Wushu,0.0,0.0,4.0,4.0,Wushu
+2022,Archery,5.0,2.0,2.0,9.0,Archery
+2022,Athletics,6.0,14.0,9.0,29.0,Athletics
+2022,Badminton,1.0,1.0,1.0,3.0,Badminton
+2022,Boxing,0.0,1.0,3.0,4.0,Boxing
+2022,Bridge,0.0,1.0,0.0,1.0,Bridge
+2022,Canoeing,0.0,0.0,1.0,1.0,Canoeing
+2022,Chess,0.0,2.0,0.0,2.0,Chess
+2022,Cricket,2.0,0.0,0.0,2.0,Cricket
+2022,Equestrian,1.0,0.0,1.0,2.0,Equestrian
+2022,Field hockey,1.0,0.0,1.0,2.0,Field hockey
+2022,Golf,0.0,1.0,0.0,1.0,Golf
+2022,Kabaddi,2.0,0.0,0.0,2.0,Kabaddi
+2022,Lawn tennis,1.0,1.0,0.0,2.0,Tennis
+2022,Roller sports,0.0,0.0,2.0,2.0,Roller sports
+2022,Rowing,0.0,2.0,3.0,5.0,Rowing
+2022,Sailing,0.0,1.0,2.0,3.0,Sailing
+2022,Sepaktakraw,0.0,0.0,1.0,1.0,Sepaktakraw
+2022,Shooting,7.0,9.0,6.0,22.0,Shooting
+2022,Squash,2.0,1.0,2.0,5.0,Squash
+2022,Table tennis,0.0,0.0,1.0,1.0,Table tennis
+2022,Wrestling,0.0,1.0,5.0,6.0,Wrestling
+2022,Wushu,0.0,1.0,0.0,1.0,Wushu
+2026,Kabaddi,2.0,0.0,0.0,2.0,Kabaddi

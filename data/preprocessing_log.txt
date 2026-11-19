@@ -1,0 +1,41 @@
+Sports Gap Dashboard - Preprocessing Log
+Step numbers follow the 16-step plan (Cleaning, Integration, Transformation, Reduction, Validation, Export)
+
+[6] Sport lookup created with 14 name variants
+[1] Budget loaded: (29, 16)
+[2] Budget: blank revenue/capital -> 0 where scheme active; blank totals kept + flagged
+[5] Budget: 4 schemes annotated (kept, not removed)
+[11] Budget: added change (Rs cr and %) from RE 2025-26 to BE 2026-27
+[1] Trends (state) loaded: (180, 3)
+[2] Trends (state): 2 missing values (Lakshadweep) filled with 0.5
+[3] Trends (state): 34 cells flagged as estimated (<1%)
+[7] Trends (state): names standardised; DNH + Daman & Diu merged into one UT
+[11] Trends (state): cricket is #1 in 33 of 35 states/UTs; ties flagged: Manipur
+[1] Trends (yearly) loaded: (115, 3)
+[3] Trends (yearly): 27 cells flagged as estimated (<1)
+[5] Trends (yearly): 2026 flagged partial year; 2023 cricket spike annotated
+[1] SAPA loaded: (31, 5)
+[2] SAPA: 2 'DATA GAP' rows removed
+[4] SAPA: 1 near-duplicate row removed (kept precise 17% value)
+[9] SAPA: text values split into value_num + unit (+ lower-bound flag)
+[1] Table 3.1 loaded: (38, 7) (title, Total and note rows removed)
+[2] Table 3.1: 'Case to Case basis' (Wrestling, Swimming 2024-25) kept blank + flagged
+[7] Tables 2.4 and 2.13: state names standardised
+[1] Olympic events loaded: 41 medals
+[3] Olympics: 1900 Pritchard medals kept but flagged is_disputed
+[6] Medals: all sport names mapped to standard names
+[8] Merged sport-level table: 42 sports x 17 columns
+[11] Added rs_cr_per_medal_2022_24 (funding 2022-25 / medals at Asian Games 2022 + Paris 2024)
+[11] Core master: ties in peak year / top state listed instead of picking one arbitrarily
+[8] Core-sport master rebuilt from cleaned data (replaces old sport_level_master)
+[12] Core master: min-max normalised copies added (*_norm), originals kept
+[15] PASS - Olympic medals = 41
+[15] PASS - NSF funding total = 947.59
+[15] PASS - Enrolment male = 1296
+[15] PASS - Enrolment female = 1162
+[15] PASS - Infrastructure total = 328
+[15] PASS - CWG all-time = 602
+[15] PASS - No missing trend values
+[15] PASS - All core sports present
+[15] PASS - No 'Total' rows left
+[16] Exported 14 cleaned files + sport_lookup.csv to 'processed data'

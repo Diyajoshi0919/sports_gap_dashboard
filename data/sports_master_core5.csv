@@ -1,0 +1,6 @@
+sport_std,avg_search_interest_2004_2026,search_interest_2025,peak_interest,peak_year,top_state,top_state_share_pct,states_where_dominant,total_2022_25_rs_cr,olympic_gold,olympic_silver,olympic_bronze,olympic_total,asian_gold,asian_silver,asian_bronze,asian_total,cwg_gold,cwg_silver,cwg_bronze,cwg_total,asian_2022,olympic_2024,medals_2022_24,funding_source,rs_cr_per_medal_2022_24,avg_search_interest_2004_2026_norm,total_2022_25_rs_cr_norm,olympic_total_norm,asian_total_norm,cwg_total_norm
+Cricket,47.35,39.0,100.0,2023,Dadra and Nagar Haveli and Daman and Diu,94.0,33,,0,0,0,0,3,0,0,3,0,1,0,1,2,0,2,"BCCI (private, no MoYAS grant)",,1.0,0.0,0.0,0.0,0.032
+Football,4.35,3.0,8.0,"2006, 2010, 2026",Mizoram,58.0,1,30.729999999999997,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,MoYAS via ANSF,,0.079,0.415,0.0,0.0,0.0
+Field hockey,0.67,0.5,1.0,No clear peak (8 years tied),6 states tied,1.0,0,74.0,8,1,4,13,5,11,7,23,1,4,1,6,2,1,3,MoYAS via ANSF,24.67,0.0,1.0,1.0,1.0,0.194
+Badminton,1.0,1.0,1.0,No clear peak (23 years tied),Mizoram,10.0,0,74.0,0,1,2,3,1,2,10,13,10,8,13,31,3,0,3,MoYAS via ANSF,24.67,0.007,1.0,0.231,0.5,1.0
+Kabaddi,1.7,2.0,8.0,2022,Andhra Pradesh,12.0,0,10.6,0,0,0,0,13,1,1,15,0,0,0,0,2,0,2,MoYAS via ANSF,5.3,0.022,0.143,0.0,0.6,0.0

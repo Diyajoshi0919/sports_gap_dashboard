@@ -1,0 +1,116 @@
+year,sport,search_interest_index,is_estimated,is_partial_year,annotation,yoy_change
+2004,Badminton,1.0,False,False,,
+2005,Badminton,1.0,False,False,,0.0
+2006,Badminton,1.0,False,False,,0.0
+2007,Badminton,1.0,False,False,,0.0
+2008,Badminton,1.0,False,False,,0.0
+2009,Badminton,1.0,False,False,,0.0
+2010,Badminton,1.0,False,False,,0.0
+2011,Badminton,1.0,False,False,,0.0
+2012,Badminton,1.0,False,False,,0.0
+2013,Badminton,1.0,False,False,,0.0
+2014,Badminton,1.0,False,False,,0.0
+2015,Badminton,1.0,False,False,,0.0
+2016,Badminton,1.0,False,False,,0.0
+2017,Badminton,1.0,False,False,,0.0
+2018,Badminton,1.0,False,False,,0.0
+2019,Badminton,1.0,False,False,,0.0
+2020,Badminton,1.0,False,False,,0.0
+2021,Badminton,1.0,False,False,,0.0
+2022,Badminton,1.0,False,False,,0.0
+2023,Badminton,1.0,False,False,,0.0
+2024,Badminton,1.0,False,False,,0.0
+2025,Badminton,1.0,False,False,,0.0
+2026,Badminton,1.0,False,True,,0.0
+2004,Cricket,30.0,False,False,,
+2005,Cricket,28.0,False,False,,-2.0
+2006,Cricket,30.0,False,False,,2.0
+2007,Cricket,51.0,False,False,,21.0
+2008,Cricket,48.0,False,False,,-3.0
+2009,Cricket,46.0,False,False,,-2.0
+2010,Cricket,54.0,False,False,,8.0
+2011,Cricket,60.0,False,False,,6.0
+2012,Cricket,52.0,False,False,,-8.0
+2013,Cricket,58.0,False,False,,6.0
+2014,Cricket,46.0,False,False,,-12.0
+2015,Cricket,44.0,False,False,,-2.0
+2016,Cricket,40.0,False,False,,-4.0
+2017,Cricket,45.0,False,False,,5.0
+2018,Cricket,43.0,False,False,,-2.0
+2019,Cricket,53.0,False,False,,10.0
+2020,Cricket,26.0,False,False,,-27.0
+2021,Cricket,48.0,False,False,,22.0
+2022,Cricket,63.0,False,False,,15.0
+2023,Cricket,100.0,False,False,Peak = ICC Men's World Cup hosted in India,37.0
+2024,Cricket,44.0,False,False,,-56.0
+2025,Cricket,39.0,False,False,,-5.0
+2026,Cricket,41.0,False,True,,2.0
+2004,Field hockey,1.0,False,False,,
+2005,Field hockey,0.5,True,False,,-0.5
+2006,Field hockey,0.5,True,False,,0.0
+2007,Field hockey,1.0,False,False,,0.5
+2008,Field hockey,0.5,True,False,,-0.5
+2009,Field hockey,0.5,True,False,,0.0
+2010,Field hockey,1.0,False,False,,0.5
+2011,Field hockey,0.5,True,False,,-0.5
+2012,Field hockey,1.0,False,False,,0.5
+2013,Field hockey,0.5,True,False,,-0.5
+2014,Field hockey,1.0,False,False,,0.5
+2015,Field hockey,0.5,True,False,,-0.5
+2016,Field hockey,1.0,False,False,,0.5
+2017,Field hockey,0.5,True,False,,-0.5
+2018,Field hockey,1.0,False,False,,0.5
+2019,Field hockey,0.5,True,False,,-0.5
+2020,Field hockey,0.5,True,False,,0.0
+2021,Field hockey,1.0,False,False,,0.5
+2022,Field hockey,0.5,True,False,,-0.5
+2023,Field hockey,0.5,True,False,,0.0
+2024,Field hockey,0.5,True,False,,0.0
+2025,Field hockey,0.5,True,False,,0.0
+2026,Field hockey,0.5,True,True,,0.0
+2004,Football,3.0,False,False,,
+2005,Football,3.0,False,False,,0.0
+2006,Football,8.0,False,False,,5.0
+2007,Football,4.0,False,False,,-4.0
+2008,Football,4.0,False,False,,0.0
+2009,Football,3.0,False,False,,-1.0
+2010,Football,8.0,False,False,,5.0
+2011,Football,3.0,False,False,,-5.0
+2012,Football,4.0,False,False,,1.0
+2013,Football,3.0,False,False,,-1.0
+2014,Football,7.0,False,False,,4.0
+2015,Football,4.0,False,False,,-3.0
+2016,Football,4.0,False,False,,0.0
+2017,Football,3.0,False,False,,-1.0
+2018,Football,4.0,False,False,,1.0
+2019,Football,3.0,False,False,,-1.0
+2020,Football,2.0,False,False,,-1.0
+2021,Football,4.0,False,False,,2.0
+2022,Football,7.0,False,False,,3.0
+2023,Football,4.0,False,False,,-3.0
+2024,Football,4.0,False,False,,0.0
+2025,Football,3.0,False,False,,-1.0
+2026,Football,8.0,False,True,,5.0
+2004,Kabaddi,0.5,True,False,,
+2005,Kabaddi,0.5,True,False,,0.0
+2006,Kabaddi,0.5,True,False,,0.0
+2007,Kabaddi,0.5,True,False,,0.0
+2008,Kabaddi,0.5,True,False,,0.0
+2009,Kabaddi,0.5,True,False,,0.0
+2010,Kabaddi,0.5,True,False,,0.0
+2011,Kabaddi,0.5,True,False,,0.0
+2012,Kabaddi,0.5,True,False,,0.0
+2013,Kabaddi,0.5,True,False,,0.0
+2014,Kabaddi,1.0,False,False,,0.5
+2015,Kabaddi,1.0,False,False,,0.0
+2016,Kabaddi,3.0,False,False,,2.0
+2017,Kabaddi,2.0,False,False,,-1.0
+2018,Kabaddi,3.0,False,False,,1.0
+2019,Kabaddi,5.0,False,False,,2.0
+2020,Kabaddi,0.5,True,False,,-4.5
+2021,Kabaddi,1.0,False,False,,0.5
+2022,Kabaddi,8.0,False,False,,7.0
+2023,Kabaddi,2.0,False,False,,-6.0
+2024,Kabaddi,5.0,False,False,,3.0
+2025,Kabaddi,2.0,False,False,,-3.0
+2026,Kabaddi,0.5,True,True,,-1.5

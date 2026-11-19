@@ -1,0 +1,176 @@
+state,sport,interest_share_pct,is_estimated
+Andaman and Nicobar Islands,Badminton,3.0,False
+Andaman and Nicobar Islands,Cricket,78.0,False
+Andaman and Nicobar Islands,Field hockey,0.5,True
+Andaman and Nicobar Islands,Football,15.0,False
+Andaman and Nicobar Islands,Kabaddi,4.0,False
+Andhra Pradesh,Badminton,2.0,False
+Andhra Pradesh,Cricket,83.0,False
+Andhra Pradesh,Field hockey,0.5,True
+Andhra Pradesh,Football,3.0,False
+Andhra Pradesh,Kabaddi,12.0,False
+Arunachal Pradesh,Badminton,4.0,False
+Arunachal Pradesh,Cricket,73.0,False
+Arunachal Pradesh,Field hockey,0.5,True
+Arunachal Pradesh,Football,22.0,False
+Arunachal Pradesh,Kabaddi,1.0,False
+Assam,Badminton,2.0,False
+Assam,Cricket,85.0,False
+Assam,Field hockey,0.5,True
+Assam,Football,12.0,False
+Assam,Kabaddi,1.0,False
+Bihar,Badminton,1.0,False
+Bihar,Cricket,92.0,False
+Bihar,Field hockey,0.5,True
+Bihar,Football,3.0,False
+Bihar,Kabaddi,4.0,False
+Chandigarh,Badminton,1.0,False
+Chandigarh,Cricket,88.0,False
+Chandigarh,Field hockey,1.0,False
+Chandigarh,Football,5.0,False
+Chandigarh,Kabaddi,5.0,False
+Chhattisgarh,Badminton,1.0,False
+Chhattisgarh,Cricket,90.0,False
+Chhattisgarh,Field hockey,0.5,True
+Chhattisgarh,Football,4.0,False
+Chhattisgarh,Kabaddi,5.0,False
+Dadra and Nagar Haveli and Daman and Diu,Badminton,1.0,False
+Dadra and Nagar Haveli and Daman and Diu,Cricket,94.0,False
+Dadra and Nagar Haveli and Daman and Diu,Field hockey,0.5,True
+Dadra and Nagar Haveli and Daman and Diu,Football,3.0,False
+Dadra and Nagar Haveli and Daman and Diu,Kabaddi,2.0,False
+Delhi,Badminton,2.0,False
+Delhi,Cricket,87.0,False
+Delhi,Field hockey,1.0,False
+Delhi,Football,8.0,False
+Delhi,Kabaddi,2.0,False
+Goa,Badminton,2.0,False
+Goa,Cricket,82.0,False
+Goa,Field hockey,0.5,True
+Goa,Football,14.0,False
+Goa,Kabaddi,2.0,False
+Gujarat,Badminton,1.0,False
+Gujarat,Cricket,92.0,False
+Gujarat,Field hockey,0.5,True
+Gujarat,Football,4.0,False
+Gujarat,Kabaddi,3.0,False
+Haryana,Badminton,2.0,False
+Haryana,Cricket,88.0,False
+Haryana,Field hockey,0.5,True
+Haryana,Football,5.0,False
+Haryana,Kabaddi,5.0,False
+Himachal Pradesh,Badminton,2.0,False
+Himachal Pradesh,Cricket,87.0,False
+Himachal Pradesh,Field hockey,0.5,True
+Himachal Pradesh,Football,4.0,False
+Himachal Pradesh,Kabaddi,7.0,False
+Jammu and Kashmir,Badminton,1.0,False
+Jammu and Kashmir,Cricket,92.0,False
+Jammu and Kashmir,Field hockey,0.5,True
+Jammu and Kashmir,Football,5.0,False
+Jammu and Kashmir,Kabaddi,2.0,False
+Jharkhand,Badminton,2.0,False
+Jharkhand,Cricket,90.0,False
+Jharkhand,Field hockey,0.5,True
+Jharkhand,Football,6.0,False
+Jharkhand,Kabaddi,2.0,False
+Karnataka,Badminton,2.0,False
+Karnataka,Cricket,80.0,False
+Karnataka,Field hockey,0.5,True
+Karnataka,Football,7.0,False
+Karnataka,Kabaddi,11.0,False
+Kerala,Badminton,2.0,False
+Kerala,Cricket,76.0,False
+Kerala,Field hockey,0.5,True
+Kerala,Football,22.0,False
+Kerala,Kabaddi,0.5,True
+Lakshadweep,Badminton,6.0,False
+Lakshadweep,Cricket,54.0,False
+Lakshadweep,Field hockey,0.5,True
+Lakshadweep,Football,40.0,False
+Lakshadweep,Kabaddi,0.5,True
+Madhya Pradesh,Badminton,1.0,False
+Madhya Pradesh,Cricket,93.0,False
+Madhya Pradesh,Field hockey,0.5,True
+Madhya Pradesh,Football,3.0,False
+Madhya Pradesh,Kabaddi,3.0,False
+Maharashtra,Badminton,1.0,False
+Maharashtra,Cricket,87.0,False
+Maharashtra,Field hockey,0.5,True
+Maharashtra,Football,7.0,False
+Maharashtra,Kabaddi,5.0,False
+Manipur,Badminton,4.0,False
+Manipur,Cricket,47.0,False
+Manipur,Field hockey,1.0,False
+Manipur,Football,47.0,False
+Manipur,Kabaddi,1.0,False
+Meghalaya,Badminton,2.0,False
+Meghalaya,Cricket,64.0,False
+Meghalaya,Field hockey,0.5,True
+Meghalaya,Football,34.0,False
+Meghalaya,Kabaddi,0.5,True
+Mizoram,Badminton,10.0,False
+Mizoram,Cricket,31.0,False
+Mizoram,Field hockey,1.0,False
+Mizoram,Football,58.0,False
+Mizoram,Kabaddi,0.5,True
+Nagaland,Badminton,5.0,False
+Nagaland,Cricket,59.0,False
+Nagaland,Field hockey,0.5,True
+Nagaland,Football,35.0,False
+Nagaland,Kabaddi,1.0,False
+Odisha,Badminton,1.0,False
+Odisha,Cricket,91.0,False
+Odisha,Field hockey,1.0,False
+Odisha,Football,5.0,False
+Odisha,Kabaddi,2.0,False
+Puducherry,Badminton,3.0,False
+Puducherry,Cricket,85.0,False
+Puducherry,Field hockey,0.5,True
+Puducherry,Football,7.0,False
+Puducherry,Kabaddi,5.0,False
+Punjab,Badminton,2.0,False
+Punjab,Cricket,88.0,False
+Punjab,Field hockey,1.0,False
+Punjab,Football,5.0,False
+Punjab,Kabaddi,4.0,False
+Rajasthan,Badminton,1.0,False
+Rajasthan,Cricket,91.0,False
+Rajasthan,Field hockey,0.5,True
+Rajasthan,Football,3.0,False
+Rajasthan,Kabaddi,5.0,False
+Sikkim,Badminton,3.0,False
+Sikkim,Cricket,73.0,False
+Sikkim,Field hockey,0.5,True
+Sikkim,Football,23.0,False
+Sikkim,Kabaddi,1.0,False
+Tamil Nadu,Badminton,2.0,False
+Tamil Nadu,Cricket,83.0,False
+Tamil Nadu,Field hockey,0.5,True
+Tamil Nadu,Football,7.0,False
+Tamil Nadu,Kabaddi,8.0,False
+Telangana,Badminton,2.0,False
+Telangana,Cricket,83.0,False
+Telangana,Field hockey,0.5,True
+Telangana,Football,5.0,False
+Telangana,Kabaddi,10.0,False
+Tripura,Badminton,2.0,False
+Tripura,Cricket,83.0,False
+Tripura,Field hockey,0.5,True
+Tripura,Football,14.0,False
+Tripura,Kabaddi,1.0,False
+Uttar Pradesh,Badminton,1.0,False
+Uttar Pradesh,Cricket,92.0,False
+Uttar Pradesh,Field hockey,0.5,True
+Uttar Pradesh,Football,4.0,False
+Uttar Pradesh,Kabaddi,3.0,False
+Uttarakhand,Badminton,3.0,False
+Uttarakhand,Cricket,88.0,False
+Uttarakhand,Field hockey,0.5,True
+Uttarakhand,Football,6.0,False
+Uttarakhand,Kabaddi,3.0,False
+West Bengal,Badminton,1.0,False
+West Bengal,Cricket,81.0,False
+West Bengal,Field hockey,0.5,True
+West Bengal,Football,17.0,False
+West Bengal,Kabaddi,1.0,False

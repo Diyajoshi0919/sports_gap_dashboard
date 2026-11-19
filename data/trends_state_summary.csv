@@ -1,0 +1,36 @@
+state,cricket_share_pct,non_cricket_share_pct,dominant_sport,second_sport,is_tie
+Dadra and Nagar Haveli and Daman and Diu,94.0,6.5,Cricket,Football,False
+Madhya Pradesh,93.0,7.5,Cricket,Football,False
+Gujarat,92.0,8.5,Cricket,Football,False
+Jammu and Kashmir,92.0,8.5,Cricket,Football,False
+Uttar Pradesh,92.0,8.5,Cricket,Football,False
+Bihar,92.0,8.5,Cricket,Kabaddi,False
+Odisha,91.0,9.0,Cricket,Football,False
+Rajasthan,91.0,9.5,Cricket,Kabaddi,False
+Chhattisgarh,90.0,10.5,Cricket,Kabaddi,False
+Jharkhand,90.0,10.5,Cricket,Football,False
+Haryana,88.0,12.5,Cricket,Football,False
+Punjab,88.0,12.0,Cricket,Football,False
+Chandigarh,88.0,12.0,Cricket,Football,False
+Uttarakhand,88.0,12.5,Cricket,Football,False
+Delhi,87.0,13.0,Cricket,Football,False
+Maharashtra,87.0,13.5,Cricket,Football,False
+Himachal Pradesh,87.0,13.5,Cricket,Kabaddi,False
+Puducherry,85.0,15.5,Cricket,Football,False
+Assam,85.0,15.5,Cricket,Football,False
+Tripura,83.0,17.5,Cricket,Football,False
+Telangana,83.0,17.5,Cricket,Kabaddi,False
+Andhra Pradesh,83.0,17.5,Cricket,Kabaddi,False
+Tamil Nadu,83.0,17.5,Cricket,Kabaddi,False
+Goa,82.0,18.5,Cricket,Football,False
+West Bengal,81.0,19.5,Cricket,Football,False
+Karnataka,80.0,20.5,Cricket,Kabaddi,False
+Andaman and Nicobar Islands,78.0,22.5,Cricket,Football,False
+Kerala,76.0,25.0,Cricket,Football,False
+Arunachal Pradesh,73.0,27.5,Cricket,Football,False
+Sikkim,73.0,27.5,Cricket,Football,False
+Meghalaya,64.0,37.0,Cricket,Football,False
+Nagaland,59.0,41.5,Cricket,Football,False
+Lakshadweep,54.0,47.0,Cricket,Football,False
+Manipur,47.0,53.0,Cricket / Football,Football,True
+Mizoram,31.0,69.5,Football,Cricket,False
